@@ -2,23 +2,23 @@
 
 ## 1. Descrição do Projeto
 
-[cite_start]Este projeto foi desenvolvido como solução para o estudo de caso da UniFECAF. [cite_start]O objetivo é criar um sistema de gerenciamento para uma biblioteca municipal, modernizando suas operações. [cite_start]O sistema permite a administração eficaz do acervo de livros, com funcionalidades para cadastrar novos títulos, consultar, atualizar e deletar livros existentes (CRUD).
+Este projeto foi desenvolvido como solução para o estudo de caso da UniFECAF.O objetivo é criar um sistema de gerenciamento para uma biblioteca municipal, modernizando suas operações.O sistema permite a administração eficaz do acervo de livros, com funcionalidades para cadastrar novos títulos, consultar, atualizar e deletar livros existentes (CRUD).
 
 ## 2. Tecnologias Utilizadas
 
 O sistema foi construído com uma arquitetura de três camadas, utilizando as seguintes tecnologias:
 
-* [cite_start]**Back-end:** 
+* **Back-end:** 
     * Java 24
-    * [cite_start]Spring Boot 3 
+    * Spring Boot 3 
     * Spring Data JPA
     * Gradle
-* [cite_start]**Front-end:** 
+* **Front-end:** 
     * React 18
     * Axios (para requisições HTTP)
     * HTML/CSS
-* [cite_start]**Banco de Dados:** 
-    * [cite_start]PostgreSQL 
+* **Banco de Dados:** 
+    * *PostgreSQL*
 
 ## 3. Pré-requisitos
 
